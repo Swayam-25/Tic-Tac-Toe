@@ -143,7 +143,7 @@ function resetGame() {
     button.disabled = false;
     button.classList.remove("win-animation");
   });
-  Result.textContent = "";
+  Result.textContent = "Complete a Game";
   turn = true;
   count = 0;
   gameEnded = false;
