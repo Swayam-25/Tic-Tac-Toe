@@ -143,4 +143,7 @@ h1 {
   grid-template-columns: auto ;
   gap: 10px;
   }
+  .box,#choice,#notc{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
 }
