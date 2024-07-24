@@ -146,4 +146,7 @@ h1 {
   .box,#choice,#notc{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+  .box{
+    font-size: 62px;
+  }
 }
